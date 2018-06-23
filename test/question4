@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 4 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>You love to meet new people and don't get nervous to do so?</h1>
+<form action="/test/depend/meet.php">
+  <input type="checkbox" name="meet" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="meet" value="A"> Agree<br>
+  <input type="checkbox" name="meet" value="N"> Not sure<br>
+  <input type="checkbox" name="meet" value="D"> Disagree<br>
+  <input type="checkbox" name="meet" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
