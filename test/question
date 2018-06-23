@@ -1,0 +1,15 @@
+<!doctype html>
+<head>
+  <title>Question 1 - Test</title>
+</head>
+<body>
+<h1>Im a party animal who is always socializing at parties?</h1>
+<form action="/test/depend/party.php">
+  <input type="checkbox" name="party" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="party" value="A"> Agree<br>
+  <input type="checkbox" name="party" value="N"> Not sure<br>
+  <input type="checkbox" name="party" value="D"> Disagree<br>
+  <input type="checkbox" name="party" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
