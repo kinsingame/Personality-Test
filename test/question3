@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 2 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>Everyone lately has been buying these Adidas shoes.  I going to buy these ASAP?</h1>
+<form action="/test/depend/shoes.php">
+  <input type="checkbox" name="shoes" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="shoes" value="A"> Agree<br>
+  <input type="checkbox" name="shoes" value="N"> Not sure<br>
+  <input type="checkbox" name="shoes" value="D"> Disagree<br>
+  <input type="checkbox" name="shoes" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
