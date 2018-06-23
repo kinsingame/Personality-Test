@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 16 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>You are trustworthy and have a lot of people who respect you?</h1>
+<form action="/test/depend/trustworthy.php">
+  <input type="checkbox" name="trustworthy" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="trustworthy" value="A"> Agree<br>
+  <input type="checkbox" name="trustworthy" value="N"> Not sure<br>
+  <input type="checkbox" name="trustworthy" value="D"> Disagree<br>
+  <input type="checkbox" name="trustworthy" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
