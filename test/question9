@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 9 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>You are always talking loudly and laughing?</h1>
+<form action="/test/depend/talking.php">
+  <input type="checkbox" name="talking" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="talking" value="A"> Agree<br>
+  <input type="checkbox" name="talking" value="N"> Not sure<br>
+  <input type="checkbox" name="talking" value="D"> Disagree<br>
+  <input type="checkbox" name="talking" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
