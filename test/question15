@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 15 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>You have sent nudes?</h1>
+<form action="/test/depend/nudes.php">
+  <input type="checkbox" name="nudes" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="nudes" value="A"> Agree<br>
+  <input type="checkbox" name="nudes" value="N"> Not sure<br>
+  <input type="checkbox" name="nudes" value="D"> Disagree<br>
+  <input type="checkbox" name="nudes" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
