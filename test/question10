@@ -5,12 +5,12 @@
 </head>
 <body>
 <h1>It takes you a while to come out your shell to new people</h1>
-<form action="/test/depend/talking.php">
-  <input type="checkbox" name="talking" value="SA"> Strongly agree<br>
-  <input type="checkbox" name="talking" value="A"> Agree<br>
-  <input type="checkbox" name="talking" value="N"> Not sure<br>
-  <input type="checkbox" name="talking" value="D"> Disagree<br>
-  <input type="checkbox" name="talking" value="SD"> Strongly Disagree<br>
+<form action="/test/depend/shell.php">
+  <input type="checkbox" name="shell" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="shell" value="A"> Agree<br>
+  <input type="checkbox" name="shell" value="N"> Not sure<br>
+  <input type="checkbox" name="shell" value="D"> Disagree<br>
+  <input type="checkbox" name="shell" value="SD"> Strongly Disagree<br>
   <input type="submit" value="Submit">
 </form>
 </body>
