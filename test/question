@@ -1,5 +1,6 @@
 <!doctype html>
-<head>
+<html>
+ <head>
   <title>Question 1 - Test</title>
 </head>
 <body>
@@ -13,3 +14,4 @@
   <input type="submit" value="Submit">
 </form>
 </body>
+</html>
