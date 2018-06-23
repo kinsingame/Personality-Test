@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+  <title>Question 18 - Test</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>You love causing beef and twisting stories?</h1>
+<form action="/test/depend/beef.php">
+  <input type="checkbox" name="beef" value="SA"> Strongly agree<br>
+  <input type="checkbox" name="beef" value="A"> Agree<br>
+  <input type="checkbox" name="beef" value="N"> Not sure<br>
+  <input type="checkbox" name="beef" value="D"> Disagree<br>
+  <input type="checkbox" name="beef" value="SD"> Strongly Disagree<br>
+  <input type="submit" value="Submit">
+</form>
+</body>
