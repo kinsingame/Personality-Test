@@ -1,1 +1,10 @@
-
+let snake = 0;
+let social = 0;
+let fake = 0;
+let funny = 0;
+let jealous = 0;
+let confident = 0;
+let perfect = 0;
+let bubbly = 0;
+let intelligent = 0;
+let shy = 0;
